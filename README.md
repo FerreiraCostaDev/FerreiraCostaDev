@@ -1,5 +1,5 @@
 ## "Seja bem-vindo ao meu GitHub!"💻📸🧑‍💻
-<img src="oi.gif" width="220px" align="right">
+<img src="oi.gif" width="180px" align="right">
 
 🚀🎯 *"Iniciando minha jornada como desenvolvedor. Aqui você vai encontrar erros, aprendizados e muita vontade de evoluir."*
 
