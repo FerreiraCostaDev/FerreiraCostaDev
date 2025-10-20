@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  
+
 ---
 
 <div>
@@ -24,8 +24,8 @@
 ---
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiracostadev&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ferreiracostadev&show_icons=true&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiracostadev&show_icons=true&theme=algolia&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ferreiracostadev&show_icons=true&show_icons=true&theme=algolia&count_private=true"/>
 </div>
 
 
