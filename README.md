@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-<img width="1100" height="6" alt="image" src="https://github.com/user-attachments/assets/97ccfcc1-f18c-409f-8c1e-29220b99be7d" />
+<img width="100%" height="6" alt="image" src="https://github.com/user-attachments/assets/97ccfcc1-f18c-409f-8c1e-29220b99be7d" />
 
 
 
