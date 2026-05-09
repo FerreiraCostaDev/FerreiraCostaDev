@@ -11,7 +11,9 @@ Atualmente focado em:
 
 ## 🧑‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=435&lines=Tecnologias" align="center" />
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 
 <td align="center">
@@ -61,8 +63,11 @@ Atualmente focado em:
 </tr>
 </table>
 
-![Top Languages](https://ghstats.dev/api/langs?username=FerreiraCostaDev&theme=nord&max_langs=10&layout=stacked)
+<br><br>
 
+<img height="180em" src="https://ghstats.dev/api/langs?username=FerreiraCostaDev&theme=nord&max_langs=10&layout=compact"/>
+
+</div>
 
 ## 🧑‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=435&lines=Atualmente" align="center" />
 
