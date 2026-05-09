@@ -27,6 +27,8 @@ Atualmente focado em:
 - Inteligência Artificial
 - Estrutura de Dados
 
+![Snake animation](https://github.com/FerreiraCostaDev/FerreiraCostaDev/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,flutter,dart,git,github,vscode&theme=dark" />
