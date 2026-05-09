@@ -1,5 +1,4 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=FerreiraCostaDev&section=header&reversal=true&animation=scaleIn)
-# 👨‍💻 José Ferreira
 
 ## 🚀 Sobre mim
 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, desenvolvimento web e inteligência artificial.
