@@ -27,13 +27,11 @@ Atualmente focado em:
 - Inteligência Artificial
 - Estrutura de Dados
 
-
 ### 🛠 Tecnologias
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,flutter,dart,react,postman&theme=dark" />
+    <!-- O parâmetro 'perline=15' e 'theme=dark' e a animação 'float' -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,flutter,dart,react,postman&perline=15&theme=dark&animate=float" />
   </a>
 </p>
-
-> **Nota:** Usei o ícone do Postman para representar a parte de APIs/OpenWeather, pois fica visualmente mais bonito que um ícone genérico.
