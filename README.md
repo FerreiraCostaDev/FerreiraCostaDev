@@ -60,6 +60,7 @@ Atualmente focado em:
 
 </tr>
 </table>
+
 ![Top Languages](https://ghstats.dev/api/langs?username=FerreiraCostaDev&theme=nord&max_langs=10&layout=stacked)
 
 
