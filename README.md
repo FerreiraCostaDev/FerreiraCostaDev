@@ -18,7 +18,8 @@ Atualmente focado em:
 </div>
 
 
-📚 Atualmente aprendendo
+## 🧑‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=435&lines=Atualmente" align="center" />
+
 - APIs REST
 - Git e GitHub
 - Inteligência Artificial
