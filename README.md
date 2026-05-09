@@ -13,7 +13,7 @@ Atualmente focado em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,flutter,dart,reactnative&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,flutter,dart,reactnative=dark" />
 
 </div>
 
