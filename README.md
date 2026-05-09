@@ -1,7 +1,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=FerreiraCostaDev&section=header&reversal=true&animation=scaleIn)
 
-🛠 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
-
+## 🚀 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&vCenter=true&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
 ---
 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, desenvolvimento web e inteligência artificial.
 
