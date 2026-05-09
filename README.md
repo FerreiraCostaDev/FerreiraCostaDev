@@ -3,6 +3,8 @@
 ## 🚀 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DEF7E7&width=435&lines=Sobre+mim)](https://git.io/typing-svg)
 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, desenvolvimento web e inteligência artificial.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DEF7E7&width=435&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+apaixonado+por+tecnologia%2C+desenvolvimento+web+e+intelig%C3%AAncia+artificial.)](https://git.io/typing-svg)
+
 Atualmente focado em:
 - Desenvolvimento Front-end
 - APIs com Python
