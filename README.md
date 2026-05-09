@@ -29,11 +29,8 @@ Atualmente focado em:
 
 ### 🛠 Tecnologias
 
+### 🛠 Tecnologias
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/html.gif" width="50" />
-  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/css.gif" width="50" />
-  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/javascript.gif" width="50" />
-  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/python.gif" width="50" />
-  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/flutter.gif" width="50" />
-  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/react.gif" width="50" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?line1=html,css,javascript,python;line2=flutter,dart,react,postman&lineCount=2&theme=tokyonight" />
 </p>
