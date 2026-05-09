@@ -13,7 +13,55 @@ Atualmente focado em:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,flutter,dart,react,mysql,postgres,postman&theme=dark" />
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="65"/><br>HTML
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="65"/><br>CSS
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="65"/><br>JavaScript
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="65"/><br>Flutter
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dart" width="65"/><br>Dart
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="65"/><br>React Native
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>MySQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="65"/><br>PostgreSQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="65"/><br>Postman
+</td>
+
+</tr>
+</table>
 
 </div>
 
