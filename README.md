@@ -1,9 +1,4 @@
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FerreiraCostaDev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FerreiraCostaDev&layout=compact&theme=tokyonight&hide_border=true)
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7aa2f7&height=30&section=header" />
 # 👨‍💻 José Ferreira
 
 ## 🚀 Sobre mim
