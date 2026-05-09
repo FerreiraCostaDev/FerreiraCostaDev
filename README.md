@@ -69,6 +69,7 @@ Atualmente focado em:
 - Git e GitHub
 - Inteligência Artificial
 - Estrutura de Dados
+  ![Top Languages](https://ghstats.dev/api/langs?username=FerreiraCostaDev&theme=nord&max_langs=10&layout=stacked)
 
 
 ![Snake animation](https://github.com/FerreiraCostaDev/FerreiraCostaDev/blob/output/github-contribution-grid-snake.svg)
