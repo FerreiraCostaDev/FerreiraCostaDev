@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=FerreiraCostaDev&section=header&reversal=true&animation=scaleIn)
+![Banner][(https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=FerreiraCostaDev&section=header&reversal=true&animation=scaleIn)](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=FerreiraCostaDev&section=header&reversal=true&animation=twinkling&textBg=false&fontSize=80&fontAlignY=40&fontAlign=50&stroke=2F4F4F)
 # 👨‍💻 José Ferreira
 
 ## 🚀 Sobre mim
