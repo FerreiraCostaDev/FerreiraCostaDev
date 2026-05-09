@@ -77,9 +77,11 @@
 
 ## 🧑‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=435&lines=Atualmente" align="center" />
 
-- APIs REST                              
-- Inteligência Artificial
-- Estrutura de Dados
+- 📱 Desenvolvendo aplicações Mobile com Flutter e React Native
+- 🌐 Aprimorando habilidades em Front-end e UI/UX
+- 🧠 Estudando Inteligência Artificial e Deep Learning
+- 🔗 Construindo APIs REST com Python
+- 🚀 Em busca da primeira oportunidade como desenvolvedor
  
 
 ![Snake animation](https://github.com/FerreiraCostaDev/FerreiraCostaDev/blob/output/github-contribution-grid-snake.svg)
