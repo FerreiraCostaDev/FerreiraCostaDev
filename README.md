@@ -20,13 +20,20 @@ Atualmente focado em:
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Open Weather API](https://img.shields.io/badge/Open_Weather-EB6E4B?style=for-the-badge&logo=openweather&logoColor=white)
 
-### 🛠 Tecnologias
-<!-- Versão com os ícones flutuando (Perfeito para o seu perfil!) -->
-<img src="https://skillicons.dev/icons?i=html,css,js,py,flutter,dart,react&perline=7" />
-
 
 📚 Atualmente aprendendo
 - APIs REST
 - Git e GitHub
 - Inteligência Artificial
 - Estrutura de Dados
+
+
+### 🛠 Tecnologias
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,flutter,dart,react,postman&theme=dark" />
+  </a>
+</p>
+
+> **Nota:** Usei o ícone do Postman para representar a parte de APIs/OpenWeather, pois fica visualmente mais bonito que um ícone genérico.
