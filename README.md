@@ -35,6 +35,30 @@ Atualmente focado em:
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dart" width="65"/><br>Dart
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="65"/><br>React Native
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>SQL Server
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="65"/><br>PostgreSQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="65"/><br>Postman
+</td>
+
+</tr>
 </table>
 
 
