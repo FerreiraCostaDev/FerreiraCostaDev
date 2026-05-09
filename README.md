@@ -27,10 +27,8 @@ Atualmente focado em:
 - Inteligência Artificial
 - Estrutura de Dados
 
-### 🛠 Tecnologias
+<div align="center">
 
-### 🛠 Tecnologias
+<img src="https://skillicons.dev/icons?i=html,css,js,python,flutter,dart,git,github,vscode&theme=dark" />
 
-<p align="left">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?line1=html,css,javascript,python;line2=flutter,dart,react,postman&lineCount=2&theme=tokyonight" />
-</p>
+</div>
