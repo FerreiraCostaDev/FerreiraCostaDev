@@ -30,8 +30,10 @@ Atualmente focado em:
 ### 🛠 Tecnologias
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <!-- O parâmetro 'perline=15' e 'theme=dark' e a animação 'float' -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,flutter,dart,react,postman&perline=15&theme=dark&animate=float" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/html.gif" width="50" />
+  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/css.gif" width="50" />
+  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/javascript.gif" width="50" />
+  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/python.gif" width="50" />
+  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/flutter.gif" width="50" />
+  <img src="https://raw.githubusercontent.com/Shahriar-Shafin/Shahriar-Shafin/main/Assets/react.gif" width="50" />
 </p>
