@@ -13,57 +13,19 @@ Atualmente focado em:
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="65"/><br>HTML
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="65"/><br>CSS
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="65"/><br>JavaScript
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="65"/><br>Python
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="65"/><br>Flutter
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=dart" width="65"/><br>Dart
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="65"/><br>React Native
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>MySQL
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="65"/><br>PostgreSQL
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="65"/><br>Postman
-</td>
-
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html" width="65"/>
+<img src="https://skillicons.dev/icons?i=css" width="65"/>
+<img src="https://skillicons.dev/icons?i=js" width="65"/>
+<img src="https://skillicons.dev/icons?i=python" width="65"/>
+<img src="https://skillicons.dev/icons?i=flutter" width="65"/>
+<img src="https://skillicons.dev/icons?i=dart" width="65"/>
+<img src="https://skillicons.dev/icons?i=react" width="65"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="65"/>
+<img src="https://skillicons.dev/icons?i=postman" width="65"/>
 
 </div>
+
 
 
 ## 🧑‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=435&lines=Atualmente" align="center" />
