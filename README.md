@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=FerreiraCostaDev&section=header&reversal=true&animation=scaleIn)
-<div align="center">
-  <h2> 🚀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&vCenter=true&width=435&lines=Sobre+mim" align="center" /> </h2>
-</div>
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=FerreiraCostaDev&section=header&reversal=true&animation=scaleIn)
+## 🚀 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&vCenter=true&width=435&lines=Sobre+mim" align="center" />
 Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, desenvolvimento web e inteligência artificial.
 
 Atualmente focado em:
