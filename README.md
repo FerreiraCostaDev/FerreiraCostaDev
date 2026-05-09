@@ -65,12 +65,11 @@ Atualmente focado em:
 
 ## 🧑‍💻 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=435&lines=Atualmente" align="center" />
 
-- APIs REST
+- APIs REST                              ![Top Languages](https://ghstats.dev/api/langs?username=FerreiraCostaDev&theme=nord&max_langs=10&layout=stacked)
 - Git e GitHub
 - Inteligência Artificial
 - Estrutura de Dados
-  ![Top Languages](https://ghstats.dev/api/langs?username=FerreiraCostaDev&theme=nord&max_langs=10&layout=stacked)
-
+ 
 
 ![Snake animation](https://github.com/FerreiraCostaDev/FerreiraCostaDev/blob/output/github-contribution-grid-snake.svg)
 
