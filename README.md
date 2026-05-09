@@ -1,3 +1,4 @@
+theme=tokyonight
 # 👨‍💻 José Ferreira
 
 ## 🚀 Sobre mim
