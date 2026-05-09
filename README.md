@@ -1,34 +1,29 @@
-## "Seja bem-vindo ao meu GitHub!"💻📸🧑‍💻
-<img src="oi.gif" width="180px" align="right">
+# 👨‍💻 José Ferreira
 
-🚀🎯 *"Iniciando minha jornada como desenvolvedor. Aqui você vai encontrar erros, aprendizados e muita vontade de evoluir."*
+## 🚀 Sobre mim
+Estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, desenvolvimento web e inteligência artificial.
 
-- 💻 Transformando curiosidade em código
-- 📖 Estudante de ADS
-- 🔍 Em busca de um estágio e novas oportunidades.
+Atualmente focado em:
+- Desenvolvimento Front-end
+- APIs com Python
+- Flutter/Dart
+- Deep Learning & IA
 
-<div id="badges">
-  <a href = "https://www.linkedin.com/in/ferreiracostadev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+## 🛠 Tecnologias
 
----
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiracostadev&show_icons=true&theme=algolia&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ferreiracostadev&show_icons=true&show_icons=true&theme=algolia&count_private=true"/>
-</div>
+## 📚 Atualmente aprendendo
+- APIs REST
+- Git e GitHub
+- Inteligência Artificial
+- Estrutura de Dados
 
-
-
+## 📫 Contato
+[LinkedIn](SEU_LINKEDIN)
